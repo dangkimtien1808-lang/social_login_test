@@ -1,0 +1,23 @@
+{
+  "facebook": [
+    {
+      "name": "acc1",
+      "env_prefix": "FB",
+      "profile_dir": "profiles/facebook",
+      "session_file": "fb_session.json"
+    },
+    {"name": "acc2"},
+    {"name": "acc3"}
+  ],
+  "tiktok": [
+    {
+      "name": "acc1",
+      "env_prefix": "TIKTOK",
+      "profile_dir": "profiles/tiktok",
+      "session_file": "tiktok_session.json"
+    },
+    {"name": "acc2"},
+    {"name": "acc3"},
+    {"name": "acc4"}
+  ]
+}

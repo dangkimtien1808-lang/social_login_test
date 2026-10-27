@@ -1,0 +1,13 @@
+﻿.env
+__pycache__/
+*.pyc
+venv/
+
+*_session.json
+profiles/
+backup/
+*_fail.png
+sessions/
+*_fail_*.png
+feed_logs/
+.venv/
